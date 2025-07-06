@@ -44,7 +44,7 @@ This project explores long-term climate trends in Bengaluru through daily temper
 - 📉 Linear trendline showing temperature shift
 - 📍 Notable warmest year: 2023
 
-Visuals available in the `/images` folder.
+Visuals available in the `Charts` folder.
 
 📌 Key Insights
 
